@@ -12,7 +12,7 @@ $ npm install delay-sync
 ```js
 const delay = require('delay-sync');
 
-delay(5000);
+delay(5000); // Delay of 5 seconds
 ```
 
 ## API
