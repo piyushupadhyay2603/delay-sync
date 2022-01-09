@@ -1,0 +1,29 @@
+{
+	"name": "delay-sync",
+	"version": "1.0.1",
+	"description": "This npm library provides a synchronous delay function for specified milliseconds",
+	"license": "MIT",
+	"repository": "https://github.com/piyushupadhyay2603/delay-sync.git",
+	"author": {
+		"name": "Piyush Upadhyay",
+		"email": "piyushupadhyay2603@gmail.com"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"delay",
+		"defer",
+		"wait",
+		"stall",
+		"timeout",
+		"settimeout",
+		"event",
+		"loop",
+		"next",
+		"tick",
+		"delay",
+		"async",
+		"await"
+	]
+}
